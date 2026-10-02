@@ -12,7 +12,7 @@ Coordonator: prof. Dumitru Cristian-Adelin.
 
 În 1908, Lazăr Edeleanu a inventat un procedeu prin care componentele țițeiului se separă fără să fie distruse. Proiectul face același lucru cu energia liceului care îi poartă numele.
 
-Campusul are patru clădiri cu ritmuri diferite (corpul de școală, căminul, cantina și atelierele), plus iluminatul exterior, iar toate trec printr-un singur contor. Factura spune cât s-a consumat, dar nu și ce. Contorul inteligent înregistrează însă consumul oră cu oră, iar aplicația separă această curbă în componentele care o formează. Nu o face după semnătura electrică a aparatelor, imposibil de citit din valori orare, ci după timp: orarul, tipul zilei, vacanțele, răsăritul și apusul.
+Pe campus sunt școala, cu laboratoarele și sala de sport, căminul, cantina și atelierele, adică patru ritmuri de consum diferite, plus iluminatul exterior. Toate trec printr-un singur contor. Factura spune cât s-a consumat, dar nu și ce. Contorul inteligent înregistrează însă consumul oră cu oră, iar aplicația separă această curbă în componentele care o formează. Nu o face după semnătura electrică a aparatelor, imposibil de citit din valori orare, ci după timp: orarul, tipul zilei, vacanțele, răsăritul și apusul.
 
 ## Ce se poate încerca în aplicație
 
