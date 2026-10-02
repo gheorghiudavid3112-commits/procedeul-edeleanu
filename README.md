@@ -26,7 +26,3 @@ Campusul are patru clădiri cu ritmuri diferite (corpul de școală, căminul, c
 ## Cifrele
 
 Datele sunt modelate, nu măsurate. Curba de sarcină reală a liceului nu a putut fi obținută, așa că profilul a fost construit din datele reale ale campusului. Pe acest model, campusul consumă 421 MWh pe an. Patru măsuri ar economisi 50,0 MWh (11,9%), adică 64.848 lei pe an la 1,30 lei/kWh, pentru o investiție de 5.200 lei recuperată în 29 de zile. Metoda rulează fără modificări pe curba reală a oricărei școli.
-
-## Cum a fost făcut
-
-Codul aplicației și o parte din texte au fost realizate cu ajutorul unui asistent AI (Claude).
